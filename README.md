@@ -118,11 +118,12 @@ GET /graduation2025/api/danmus/<id>
 
 ## 📱页面展示
 
-![首页](./assets/首页.jpg)
+<p align="center">
+  <img src="./assets/首页.jpg" width="30%" alt="首页" />
+  <img src="./assets/第二个页面.jpg" width="30%" alt="寄语" />
+  <img src="./assets/弹幕页.jpg" width="30%" alt="弹幕页" />
+</p>
 
-![寄语](./assets/第二个页面.jpg)
-
-![弹幕页](./assets/弹幕页.jpg)
 
 ## 📄 License
 
