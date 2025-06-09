@@ -33,7 +33,8 @@ project-root/
 │   ├── app.py          # 主 Flask 程序
 │   └── danmu.db        # SQLite 数据库
 │
-├── nginx.conf          # 推荐的 Nginx 配置
+├── assets/             # README.md图片
+│
 └── README.md           # 项目说明
 ```
 
